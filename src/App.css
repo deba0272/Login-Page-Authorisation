@@ -1,0 +1,190 @@
+.login{
+font-size: 30px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+background-color: rgb(86, 116, 171);
+  opacity: 1;
+text-align: calc();
+height:290px
+}
+.ok{
+font-style: oblique;
+}
+.god{
+    font-style: oblique;
+}
+.loggo{
+    background-color: rgb(93, 36, 36);
+    
+}
+.foursome{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.name{
+    color: rgb(200, 200, 234);
+}
+.email{
+    color: rgb(121, 230, 230);
+}
+.three{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    
+}
+.four{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    color: rgb(167, 7, 7);
+}
+.gogo2{
+    background-image: url(./images/stock2.png);
+   width:1455px;
+   height:996px;
+   color: aquamarine;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.okk{
+    width: 500px;
+    border: 10px solid rgb(108, 101, 151);
+    padding: 60px;
+    margin: 200px;
+    margin-left: 500px;
+    align-items:center;
+    justify-content: center;
+    text-shadow: 2px 2px 5px red;
+}
+.logo{
+    width:500px;
+    height:100px;
+}
+.logo4{
+    background-image: url(./images/gaming.jpg);
+    width:1455px;
+   height:900px;
+}
+.logo4{
+    
+    color:whitesmoke;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.name2{
+    
+    width: 700px;
+   
+    padding: 80px;
+    margin: 70px;
+    margin-left: -700px;
+    margin-bottom: 700px;
+    text-shadow: 2px 2px 5px rgb(118, 16, 16);
+}
+.com{
+    background-image: url(./images/stonn.jpg);
+    width:1455px;
+    height:900px;
+}
+.fon{
+font-family: Arial, Helvetica, sans-serif;
+font-style: oblique;
+color:aqua;
+width: 500px;
+padding: 60px;
+margin: 0px;
+margin-left: 470px;
+align-items:center;
+justify-content: center;
+text-shadow: 2px 2px 5px red;
+}
+.exchange{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color:rgb(242, 239, 239);
+font-size: larger;
+}
+.mutual{
+    font-family: Arial, Helvetica, sans-serif;
+font-style: oblique;
+color:aqua;
+width: 500px;
+padding: 60px;
+margin: 0px;
+margin-left: 500px;
+align-items:center;
+justify-content: center;
+text-shadow: 2px 2px 5px red;
+}
+.fund{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color:rgb(236, 237, 241);
+font-size: larger;
+}
+.compo{
+    background-image: url(./images/nifty50.jpg);
+    height:800px;
+    background-size: auto;
+    background-repeat: inherit;
+}
+.laltu{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    color:aqua;
+    width: 500px;
+    padding: 60px;
+    margin: 0px;
+    margin-left: 600px;
+    align-items:center;
+    justify-content: center;
+    text-shadow: 2px 2px 5px red;
+}
+.hagu{
+    align-items: center;
+    justify-content: center;
+}
+.de{
+    background-image: url(./images/sensex.jpg);
+    align-items: center;
+    justify-content: center;
+    background-repeat: no-repeat;
+    height:900px;
+}
+.gh{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-weight: 300;
+    font-size: 100cap;
+    color:rgb(5, 32, 32);
+    width: 500px;
+    padding: 60px;
+    margin: 0px;
+    margin-left: 600px;
+    align-items:center;
+    justify-content: center;
+    text-shadow: 2px 2px 5px red;
+}
+.write{
+    color: rgb(237, 224, 105);
+    
+}
+.write2{
+    color:whitesmoke
+}
+.login9{
+    width:500px;
+    height:450px;
+}
+.bod{
+    background-color: rgb(19, 196, 196);
+}
+.tit{
+    font-size: larger;
+    font-style: oblique;
+    color: black;
+
+}
+.tit2{
+    font-size: larger;
+    font-style: oblique;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
